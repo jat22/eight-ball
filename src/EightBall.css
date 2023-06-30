@@ -1,0 +1,51 @@
+.eightball-container{
+	border: solid 2px black;
+	width: 400px;
+	height: 400px;
+	margin: auto;
+	margin-top: 5rem;
+	background-color: red;
+}
+
+.eightball-ball {
+	border-radius:50%;
+	width: 350px;
+	height: 350px;
+	margin: auto;
+	margin-top: 25px;
+}
+
+.black{
+	border: solid 1px black;
+	background: radial-gradient(circle at center, gray, black);
+}
+
+.green{
+	border: solid 1px green;
+	background: radial-gradient(circle at center, lightgreen, green);
+}
+
+.goldenrod{
+	border: solid 1px black;
+	background: radial-gradient(circle at center, lightyellow, goldenrod);
+}
+
+.red{
+	border: solid 1px black;
+	background: radial-gradient(circle at center, pink, red);
+}
+
+.eightball-text{
+	border-left:50px;
+	border-right:50px;
+	border-bottom: 86.6px;
+	text-align: center;
+	margin:auto;
+	margin-top: 125px;
+	color: white;
+	background-color: blue;
+	height:100px;
+	width:150px;
+	font-size: 1.5rem;
+	border:white solid 1px;
+}
